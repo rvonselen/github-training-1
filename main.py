@@ -1,4 +1,3 @@
-
 def fibonacci(n):
     i = 0
     i1 = 0
@@ -11,5 +10,4 @@ def fibonacci(n):
         i1 = i_store
         i += 1
     return string
-
 print(fibonacci(15))
