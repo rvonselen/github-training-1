@@ -15,3 +15,6 @@ def fibonacci(n):
 print("Hello world")
 
 print(fibonacci(15))
+
+def multiply(a, b):
+    return(a * b)
