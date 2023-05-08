@@ -10,4 +10,7 @@ def fibonacci(n):
         i1 = i_store
         i += 1
     return string
+
+print("Hello world")
+
 print(fibonacci(15))
