@@ -9,6 +9,7 @@ def fibonacci(n):
         i2 = i1 + i2
         i1 = i_store
         i += 1
+        print("SENNE")
     return string
 
 print("Hello world")
